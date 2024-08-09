@@ -20,3 +20,5 @@ Step 3 : then extract the archive:
         cd solana-release/
         export PATH=$PWD/bin:$PATH`
 
+Step 4 : Finally Check version of Solana
+ ` solana --version`
